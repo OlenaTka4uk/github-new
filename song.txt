@@ -8,5 +8,4 @@ Hello!
 How are you?
 Status short
 
-Read it
------------------
+Add new
