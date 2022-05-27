@@ -15,3 +15,5 @@ New feature
 ----------------
 First line
 Second line
+
+Some content here
