@@ -10,3 +10,8 @@ Status short
 
 Read it
 -----------------
+
+New feature
+----------------
+First line
+Second line
